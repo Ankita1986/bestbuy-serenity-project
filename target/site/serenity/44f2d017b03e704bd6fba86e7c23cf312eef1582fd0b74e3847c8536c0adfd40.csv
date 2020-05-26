@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product test with tags","Deleting the Product information with productId : {0} ","SUCCESS","2020-05-26T12:20:22.930+01:00[Europe/London]","0.0","0.17"
+"Product test with tags","Deleting the Product information with productId : {0} ","SUCCESS","2020-05-26T12:20:22.930+01:00[Europe/London]","0.0","0.17"
+"Store test with tags","Deleting the store with store ID","SUCCESS","2020-05-26T12:20:25.753+01:00[Europe/London]","0.0","0.13"
+"Store test with tags","Deleting the store with store ID","SUCCESS","2020-05-26T12:20:25.753+01:00[Europe/London]","0.0","0.13"
